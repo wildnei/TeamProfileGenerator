@@ -29,6 +29,7 @@ Navigate to [Deployed Application](https://github.com/wildnei/TeamProfileGenerat
 
 ![Image](https://ik.imagekit.io/devdojo/readme_gif/MyTeamGenerator_6goWFduhR.gif)
 
+
 ## Project Owner
 
 Wildnei Queiroz
