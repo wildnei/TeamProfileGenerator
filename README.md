@@ -54,6 +54,10 @@ Please fork the project or clone it and try to merge changes!
 
 [LinkedIn Profile](https://www.linkedin.com/in/wildneisuane/)
 
+## ReadMe Generator
+
+THIS FILE WAS CREATE USING THE [README GENERATOR](https://github.com/wildnei/readmeGenerator)
+
 ## License
 
 <details>
@@ -277,9 +281,9 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
 Copyright 2021 Wildnei Queiroz
 
-    </details>
+
 
 
 
     
-THIS FILE WAS CREATE USING THE [README GENERATOR](https://github.com/wildnei/readmeGenerator)
+
