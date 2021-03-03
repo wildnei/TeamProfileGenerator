@@ -29,6 +29,7 @@ Navigate to [Deployed Application](https://github.com/wildnei/TeamProfileGenerat
 
 ![Image](https://ik.imagekit.io/devdojo/readme_gif/MyTeamGenerator_6goWFduhR.gif)
 
+
 ## Project Owner
 
 Wildnei Queiroz
@@ -52,6 +53,10 @@ Please fork the project or clone it and try to merge changes!
 ## LinkedIn Profile
 
 [LinkedIn Profile](https://www.linkedin.com/in/wildneisuane/)
+
+## ReadMe Generator
+
+THIS FILE WAS CREATE USING THE [README GENERATOR](https://github.com/wildnei/readmeGenerator)
 
 ## License
 
@@ -276,8 +281,9 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
 Copyright 2021 Wildnei Queiroz
 
-    </details>
+
 
 
 
     
+
